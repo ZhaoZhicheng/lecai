@@ -35,7 +35,7 @@
                     <key>bundle-identifier</key>
                     <string>net.cnlot.lecai</string>
                     <key>bundle-version</key>
-                    <string>35</string>
+                    <string>3.1</string>
                     <key>title</key>
                     <string>lecai</string>
                     <key>subtitle</key>

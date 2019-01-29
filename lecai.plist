@@ -37,11 +37,11 @@
                     <key>bundle-version</key>
                     <string>35</string>
                     <key>title</key>
-                    <string>乐彩网</string>
+                    <string>lecai</string>
                     <key>subtitle</key>
-                    <string>乐彩网iOS APP</string>
+                    <string>lecai</string>
                     <key>kind</key>
-                    <string>资讯</string>
+                    <string>software</string>
                 </dict>
             </dict>
         </array>
